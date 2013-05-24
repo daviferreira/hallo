@@ -12,7 +12,7 @@
       dialogOpts:
         autoOpen: false
         width: 540
-        height: 200
+        height: 95
         title: "Enter Link"
         buttonTitle: "Insert"
         buttonUpdateTitle: "Update"
